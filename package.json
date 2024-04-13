@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "express-node-js",
+  "version": "1.0.0",
+  "main": "server.ja",
+  "devDependencies": {},
+  "scripts": {
+    "dev":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshareddy782/express-node-js.git"
+  },
+  "author": "harsha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshareddy782/express-node-js/issues"
+  },
+  "homepage": "https://github.com/harshareddy782/express-node-js#readme",
+  "description": ""
+}
